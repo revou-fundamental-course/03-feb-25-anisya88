@@ -73,3 +73,9 @@ body{
 footer{
     text-align: center;
 }
+
+@media only screen and (max-width: 480px) {
+    main {
+        background-color: rgb(255, 214, 247);
+    }
+}
